@@ -1,2 +1,2 @@
 echo running
-mkdir /var/jenkins/testdirectory
+mkdir /home/grichman/testdirectory
